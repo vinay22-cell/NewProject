@@ -1,0 +1,53 @@
+body {
+    background-color: silver;
+    padding: 0%;
+    border: indigo;
+}
+#Container_welcome h1{
+    background-color: tomato;
+}
+#Container_Read h2{
+    background-color: greenyellow;
+    width: 400px;
+}
+#Container_language h2{
+    background-color: rgb(0, 110, 255);
+    width: 410px;
+}
+#Container_nextPage a button{
+    background-color: green;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+#Insert_button button{
+    background-color: lightgreen;
+    width: 500px;
+    height: 50px;
+}
+#Read_All_Data_button button{
+    background-color: lightgreen;
+    width: 500px;
+    height: 50px;
+}
+#delete_button button{
+    background-color: lightgreen;
+    width: 500px;
+    height: 50px;
+}
+#Container_Back a button{
+    background-color: green;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+#search_button button{
+    background-color: lightgreen;
+    width: 500px;
+    height: 50px;
+}
+#std{
+    background-color: greenyellow;
+    height: 50px;
+    width: 675px;
+}
